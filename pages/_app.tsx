@@ -1,7 +1,7 @@
-import { ThemeProvider } from "next-themes";
-import { appWithTranslation } from "next-i18next";
+import { appWithTranslation } from 'next-i18next';
+import { ThemeProvider } from 'next-themes';
 
-import "../styles/globals.css";
+import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
   return (

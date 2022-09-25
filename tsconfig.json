@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/custom-cursor/utils.js", "components/custom-cursor/index.js", "components/works/index.jsx"  ],
   "exclude": [
     "node_modules"
   ]
